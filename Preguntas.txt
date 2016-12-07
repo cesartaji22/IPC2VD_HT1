@@ -1,0 +1,18 @@
+Alumno: César Arnoldo Tajiboy Orozco
+Carne: 201325661
+
+
+1. ¿Qué entiende como "commit"?
+    El commit es la función que permite al usuario 
+    actualizar el proyecto cada vez que se realice 
+    hasta el mas minimo cambio en este.
+    el commit crea una bitacora de codigo modificado( o
+    lo que se este trabajando), segun lo desee el usuario.
+
+2. ¿Qué entiende como "merge"?
+    Merge puede entenderse como rama que se trabaja 
+    por separada en un proyecto y cuando esta es 
+    terminada puede ser unida a la rama primaria.   
+
+3. ¿Cuál es la diferencia entre "Pull" y "Push"?
+   Pull recibe informacion y push envia informacion.
