@@ -273,13 +273,13 @@ public class NewJFrame extends javax.swing.JFrame {
       
         if(a < b)
            if(a<c)
-               jTextField5.setText("el número menor es: " + a);
+               jTextField5.setText("el número menor es: " + a +"_201325661" );
            else
-              jTextField5.setText("el número menor es: " + c);
+              jTextField5.setText("el número menor es: " + c + "_201325661");
         else if(b<c)
-              jTextField5.setText("el número menor es: " + b);
+              jTextField5.setText("el número menor es: " + b + "_201325661");
                 else
-              jTextField5.setText("el número menor es: " + c);
+              jTextField5.setText("el número menor es: " + c + "_201325661");
 
         
         
